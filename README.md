@@ -1,4 +1,4 @@
 # harshdemo
 This is my first Git Repository
 <br>
-Author - Harsh Pandey
+Author - Harsh (kumar pandey)
